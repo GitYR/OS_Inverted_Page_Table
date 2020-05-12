@@ -1,0 +1,25 @@
+one_page2 = c0004000
+two_page1 = c0005000
+Testing semaphores...Page fault : C0008000
+Page fault : C0009000
+Page fault : C0000000
+Page fault : C000A000
+Page fault : C0001000
+Page fault : C000B000
+Page fault : C000C000
+done.
+========== initialization complete ==========
+
+Page fault : C000D000
+Page fault : C000E000
+Page fault : C000F000
+Page fault : C0010000
+Page fault : C0011000
+Page fault : C0012000
+Page fault : C0013000
+Page fault : C0014000
+Page fault : C0015000
+Page fault : C0016000
+Page fault : C0017000
+
+id :
