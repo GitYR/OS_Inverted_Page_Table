@@ -47,3 +47,6 @@ addition, The size of physical memory of the 'SSUOS' which is OS for practice is
 
 [OBJECTS]
 
+1. Level Hash 구현하기
+
+2. Level Hash를 사용하는 역페이지 테이블 구현하기
